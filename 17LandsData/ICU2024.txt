@@ -1,0 +1,30 @@
+Date	Account	Set	Trophy	Colors	W/L	Format	Start Rank	End Rank	Shareable Links
+2024-02-04 18:07	tuomo	LCI	x	RGw	7 - 2	PremierDraft	Platinum-1	Diamond-4	Draft, Pool, Deck 1, Details
+2024-02-04 13:08	tuomo	LCI		WU	1 - 3	PremierDraft	Platinum-1	Platinum-1	Draft, Pool, Deck 1, Deck 2, Details
+2024-02-03 20:03	tuomo	LCI	x	WB	7 - 2	PremierDraft	Platinum-2	Platinum-1	Draft, Pool, Deck 1, Details
+2024-02-03 18:24	tuomo	LCI		UR	5 - 3	PremierDraft	Platinum-3	Platinum-2	Draft, Pool, Deck 1, Details
+2024-02-03 11:39	tuomo	LCI	x	UB	7 - 1	PremierDraft	Platinum-4	Platinum-3	Draft, Pool, Deck 1, Details
+2024-02-01 21:57	tuomo	LCI		RGwu	5 - 3	PremierDraft	Gold-1	Platinum-4	Draft, Pool, Deck 1, Deck 2, Details
+2024-02-01 19:12	tuomo	LCI		BG	4 - 3	PremierDraft	Gold-2	Gold-1	Draft, Pool, Deck 1, Details
+2024-02-01 18:04	tuomo	LCI		WRg	2 - 3	PremierDraft	Gold-2	Gold-2	Draft, Pool, Deck 1, Details
+2024-01-27 17:12	tuomo	LCI		WR	4 - 3	PremierDraft	Diamond-2	Diamond-1	Draft, Pool, Deck 1, Deck 2, Details
+2024-01-25 19:00	tuomo	LCI		UR	5 - 3	PremierDraft	Diamond-2	Diamond-2	Draft, Pool, Deck 1, Details
+2024-01-23 20:12	tuomo	LCI		UR	6 - 3	PremierDraft	Diamond-3	Diamond-2	Draft, Pool, Deck 1, Details
+2024-01-22 20:11	tuomo	LCI	x	WU	7 - 1	PremierDraft	Diamond-4	Diamond-3	Draft, Pool, Deck 1, Details
+2024-01-21 19:05	tuomo	LCI		UR	4 - 3	PremierDraft	Diamond-4	Diamond-4	Draft, Pool, Deck 1, Details
+2024-01-21 16:48	tuomo	LCI		WU	4 - 3	PremierDraft	Platinum-1	Diamond-4	Draft, Pool, Deck 1, Details
+2024-01-21 15:13	tuomo	LCI		WR	4 - 3	PremierDraft	Platinum-1	Platinum-1	Draft, Pool, Deck 1, Details
+2024-01-15 17:33	tuomo	LCI		RG	5 - 3	PremierDraft	Platinum-1	Platinum-1	Draft, Pool, Deck 1, Details
+2024-01-14 01:02	tuomo	LCI		RG	2 - 3	PremierDraft	Platinum-2	Platinum-1	Draft, Pool, Deck 1, Details
+2024-01-13 16:32	tuomo	LCI		UR	6 - 3	PremierDraft	Platinum-2	Platinum-1	Draft, Pool, Deck 1, Details
+2024-01-12 19:21	tuomo	LCI	x	RG	7 - 1	PremierDraft	Platinum-3	Platinum-2	Draft, Pool, Deck 1, Deck 2, Details
+2024-01-12 16:14	tuomo	LCI	x	WU	7 - 2	PremierDraft	Platinum-4	Platinum-3	Draft, Pool, Deck 1, Details
+2024-01-11 21:39	tuomo	LCI		WU	2 - 3	PremierDraft	Gold-1	Platinum-4	Draft, Pool, Deck 1, Details
+2024-01-11 11:42	tuomo	LCI	x	UB	7 - 1	PremierDraft	Gold-3	Gold-1	Draft, Pool, Deck 1, Details
+2024-01-10 18:55	tuomo	LCI		BR	2 - 3	PremierDraft	Gold-3	Gold-3	Draft, Pool, Deck 1, Details
+2024-01-04 22:31	tuomo	LCI		WG	3 - 3	PremierDraft	Gold-4	Gold-3	Draft, Pool, Deck 1, Details
+2023-12-30 16:49	tuomo	LCI		UR	2 - 3	PremierDraft	Platinum-3	Platinum-2	Draft, Pool, Deck 1, Deck 2, Details
+2023-12-21 15:41	tuomo	LCI	x	UR	7 - 2	PremierDraft	Platinum-4	Platinum-3	Draft, Pool, Deck 1, Details
+2023-12-20 18:50	tuomo	LCI	x	WU	7 - 0	PremierDraft	Gold-2	Platinum-4	Draft, Pool, Deck 1, Details
+2023-12-14 19:11	tuomo	LCI	x	WU	7 - 2	PremierDraft	Silver-1	Gold-2	Draft, Pool, Deck 1, Details
+2023-12-03 21:46	tuomo	LCI	x	WU	7 - 0	PremierDraft	Silver-1	Silver-1	Pool, Deck 1, Details
